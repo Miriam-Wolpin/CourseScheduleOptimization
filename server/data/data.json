@@ -1,0 +1,24 @@
+{
+    "students": [],
+    "courses": [
+      {
+        "name": "React",
+        "capacity": 30,
+        "schedule": [
+          { "day": "Monday", "time": "10:00" },
+          { "day": "Wednesday", "time": "14:00" }
+        ],
+        "enrolledStudents": []
+      },
+      {
+        "name": "Node.js",
+        "capacity": 25,
+        "schedule": [
+          { "day": "Tuesday", "time": "11:00" },
+          { "day": "Thursday", "time": "16:00" }
+        ],
+        "enrolledStudents": []
+      }
+    ]
+  }
+  
